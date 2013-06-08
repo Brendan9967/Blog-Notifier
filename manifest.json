@@ -2,6 +2,7 @@
   "manifest_version": 2,
 
   "name": "Blog Notifier",
+  "author": "Brendan Peckitt <https://github.com/Brendan9967",
   "description": "Notifies you of new blog posts.",
   "version": "0.1",
 
